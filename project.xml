@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>3.5.2.0</version> 
+        <version>3.5.3.0</version> 
         <url>https://drive.google.com/u/5/uc?id=11hBaynHj8f-fXBxqbLgousZ-IabbQXr7&export=download</url> 
         <filePath>./Numerology.exe</filePath>
         <md5>012B9FEEC3CB027DBAE03E2892DE76C1</md5>
