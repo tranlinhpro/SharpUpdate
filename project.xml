@@ -2,9 +2,9 @@
 <sharpUpdate> 
     <update appId="Numerology"> 
         <version>3.5.3.0</version> 
-        <url>https://drive.google.com/u/5/uc?id=11hBaynHj8f-fXBxqbLgousZ-IabbQXr7&export=download</url> 
+        <url>http://103.199.17.182/Numerology/Numerology.exe</url> 
         <filePath>Numerology.exe</filePath>
-        <md5>7E04C86216276C87EF9837EFC12A624F</md5>
+        <md5>A2F995FAA9EF0C2B503FBBC980000CAD</md5>
         <description>Update: 10/06/2018:
         1. Updated a label.</description> 
         <launchArgs></launchArgs> 
