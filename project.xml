@@ -1,30 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update> 
+    <update appID="Numerology"> 
         <version>3.5.3.0</version> 
         <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
-        <filePath>./Numerology.exe</filePath>
+        <filePath>Numerology.exe</filePath>
         <md5>012B9FEEC3CB027DBAE03E2892DE76C2</md5>
         <description>Update: 10/06/2018:
         1. Updated a label.</description> 
         <launchArgs></launchArgs> 
     </update>
-    <update> 
-        <version>1.1.0.0</version> 
-        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/SharpUpdate.dll</url> 
-        <filePath>./SharpUpdate.dll</filePath>
-        <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
-        <description>Update: 10/06/2018:
-        1. Support for multiple files updating.</description> 
-        <launchArgs></launchArgs> 
-    </update>
-    <add> 
-        <version>3.5.5.0</version>  
-        <url>https://drive.google.com/u/5/uc?id=11hBaynHj8f-fXBxqbLgousZ-IabbQXr7&export=download</url> 
-        <filePath>./Numerology.exe</filePath>
-        <md5>E23C84A92F77CF9F08C35B341A1D19CC</md5>
-        <description>Add: 10/06/2018:
-        1. Test add.</description> 
-        <launchArgs></launchArgs> 
-    </add>
 </sharpUpdate>
