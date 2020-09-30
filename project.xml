@@ -17,6 +17,7 @@
         <description>Update: 10/06/2018:
         1. Support for multiple files updating.</description> 
         <launchArgs></launchArgs> 
+    </update>
     <add> 
         <version>3.5.5.0</version>  
         <url>https://drive.google.com/u/5/uc?id=11hBaynHj8f-fXBxqbLgousZ-IabbQXr7&export=download</url> 
