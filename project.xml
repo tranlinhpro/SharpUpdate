@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appId="Numerology"> 
-        <version>3.5.3.1</version> 
+        <version>3.5.3.2</version> 
         <url>http://103.199.17.182/Numerology/Numerology.exe</url> 
         <filePath>./Numerology.exe</filePath>
-        <md5>5A679A1A43C6299D8121EBA637F1A4EA</md5>
+        <md5>D65C55728B68B51B14F93BA594059626</md5>
         <description>Update: 10/06/2018:
         1. Updated a label.</description> 
         <launchArgs></launchArgs> 
