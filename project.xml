@@ -1,6 +1,6 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update appID="Numerology"> 
+    <update appId="Numerology"> 
         <version>3.5.3.0</version> 
         <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
         <filePath>Numerology.exe</filePath>
